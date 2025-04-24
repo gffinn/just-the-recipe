@@ -1,0 +1,7 @@
+/* Feed.module.css */
+.feedContainer {
+    width: 66.66% !important;         /* 2/3 of the page */
+    margin: 0 auto;         /* Center horizontally */
+    padding-top: 2rem;
+  }
+  
